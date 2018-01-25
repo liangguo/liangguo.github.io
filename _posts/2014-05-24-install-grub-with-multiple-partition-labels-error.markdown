@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: default
 title:  "Install grub with multiple partition labels error"
 comments: true
 date:   2014-05-24 01:57:25
-categories: jekyll update
+categories: [debian]
 ---
 
 今天在试图将`root文件系统`迁移到一块空白磁盘时，遇到了一个安装`grub`的错误:
