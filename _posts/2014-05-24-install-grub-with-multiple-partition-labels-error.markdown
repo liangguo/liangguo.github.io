@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title:  "Install grub with multiple partition labels error"
 comments: true
 date:   2014-05-24 01:57:25
